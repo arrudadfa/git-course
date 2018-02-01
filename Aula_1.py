@@ -1,6 +1,3 @@
-""" Criando um arquivo
-
-adicionando uma alteração"""
 
 import numpy 
 import scipy
