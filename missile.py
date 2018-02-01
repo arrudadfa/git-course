@@ -135,7 +135,7 @@ altitude_guess = altitude_from_time(target_time)
 altitude_guess_km = altitude_guess / 1000.0
 print ("Target Time (s)", target_time, \
     "Required altitude (km)", altitude_guess_km)
-    
+
 
 
 # Guess reentry times and speeds
@@ -158,3 +158,5 @@ print ("Reentry time (s)", to_atmosphere_time, \
 print ("Impact time (s)", to_ground_time, \
     "Impact speed (mach)", to_ground_speed, \
     "Estimated flight time (min)", to_ground_time * 2.0 / 60.0)
+
+#"inserido comentario na ultima linha do arquivo missile"
